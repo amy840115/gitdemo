@@ -8,7 +8,7 @@ import java.util.Map;
 
 public class Practice {
 	
-	private strs;
+	private Stringp[] strs;
 	
 	public static void main(String[] args) {
 		String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat", "ant"};
