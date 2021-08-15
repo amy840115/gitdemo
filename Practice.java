@@ -11,7 +11,9 @@ public class Practice {
 	private Stringp[] strs;
 	
 	public static void main(String[] args) {
-		String[] strs2 = {"row", "orw"};
+
+		String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
+		String[] strs = {"row", "orw"};
 		Practice prt = new Practice();
 		System.out.println(prt.groupAnagrams(strs));
 		
