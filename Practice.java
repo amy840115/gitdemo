@@ -12,7 +12,7 @@ public class Practice {
 	
 	public static void main(String[] args) {
 		String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat", "ant"};
-	
+		String[] strs2 = {"row", "orw"};
 		Practice prt = new Practice();
 		System.out.println(prt.groupAnagrams(strs));
 		
