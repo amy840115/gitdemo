@@ -9,7 +9,7 @@ import java.util.Map;
 public class Practice {
 	
 	public static void main(String[] args) {
-		String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat", "ant"};
+		String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
 	
 		Practice prt = new Practice();
 		System.out.println(prt.groupAnagrams(strs));
